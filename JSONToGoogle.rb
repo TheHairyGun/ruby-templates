@@ -8,7 +8,7 @@ spreadSheetKey = ""
 
 
 #setup our data
-data = File.open("data.txt").read
+data = File.open("data/categories-news-full.txt").read
 parsed = JSON.parse(data)
 session = GoogleDrive.login(username, password)
 

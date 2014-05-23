@@ -9,3 +9,7 @@ This is an example of how to read in JSON from a file, handle my data in a loop,
 
 ### Dependencies:
 https://github.com/gimite/google-drive-ruby
+
+RubySubstitute
+--------------
+Reading a value with substitution values.
